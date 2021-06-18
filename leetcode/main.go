@@ -8,5 +8,12 @@ func main() {
 
 	l := []int{1,8,6,2,5,4,8,3,7}
 
-	fmt.Println(maxArea(l))
+	//BubbleSort(l)
+
+	QuickSort(l, 0, len(l) - 1)
+	fmt.Println(l)
+	fmt.Println(FindEr(l, 0, len(l) - 1, 8))
+
+
+	//fmt.Println(maxArea(l))
 }
