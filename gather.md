@@ -4,10 +4,13 @@
 * 面试总结
 
 * DDos 攻击原理
+https://www.jianshu.com/p/1db5024673d7
 
 * 连接三次握手，断开连接四次挥手的状态变化具体详情
 
-* B+树和B树的具体结构和区别
+* B+树和B树的具体结构和区别，数据库回表
+https://zhuanlan.zhihu.com/p/54102723
+回表 https://www.cnblogs.com/zhangshengdong/p/12917637.html
 
 * map 的原理
 
